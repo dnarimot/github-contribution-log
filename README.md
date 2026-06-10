@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution [1]: [Bug]: Date selector in schedules for Mac desktop app doesn't handle dates in a 6th row correctly
  
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Daiki Narimoto]  
+**Issue:** [https://github.com/actualbudget/actual/issues/3701]
+**Status:** [Phase I] [Complete]
  
 ---
  
 ## Why I Chose This Issue
  
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because contributing to a personal finance tracker such as actualbudget in my opinion is a very applicable skill that I can use to build personal finance related projects to aid a different purpose than budgeting. Actualbudget also appears to be a well maintained project with proper support laid out. This issue specifically appears to be a smaller scale fix that works with a calendar popup, which is something I want to learn how to do since calendar modals are commonly used across various applications. 
  
 ---
  
