@@ -3,7 +3,7 @@
 **Contribution Number:** [1]  
 **Student:** [Daiki Narimoto]  
 **Issue:** [https://github.com/actualbudget/actual/issues/3701]
-**Status:** [Phase I] [Complete]
+**Status:** [Phase III] [In Progress]
  
 ---
  
@@ -16,8 +16,7 @@ I chose this issue because contributing to a personal finance tracker such as ac
 ## Understanding the Issue
  
 ### Problem Description
- 
-[In your own words, what's broken or missing?]
+For this issue, the current calendar date selector component on the Mac desktop app has an overflowed 6th row that occurs when the first day of the month occurs at the end of the week (ex: Friday-Sunday). When the calendar is only 5 rows, it functions normally but when there is overflow, a user could click on a date but the selection will not register and the component will close as if no date has been selected. 
  
 ### Expected Behavior
  
@@ -37,13 +36,15 @@ I chose this issue because contributing to a personal finance tracker such as ac
  
 ### Environment Setup
  
-[Notes on setting up your local development environment - challenges you faced, how you solved them]
- 
+No issues when setting up the environment. There was a dev container provided. 
+1. Install VS Code and the Dev Containers extension (Docker too)
+2. Clone fork, Reopen in dev container
+3. Create working branch
+
 ### Steps to Reproduce
- 
-1. [Step 1]
-2. [Step 2]
-3. [Observed result]
+1. 
+2. 
+3. 
 ### Reproduction Evidence
  
 - **Commit showing reproduction:** [Link to commit in your fork]
