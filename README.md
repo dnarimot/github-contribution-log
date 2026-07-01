@@ -3,7 +3,7 @@
 **Contribution Number:** [1]  
 **Student:** [Daiki Narimoto]  
 **Issue:** [https://github.com/actualbudget/actual/issues/3701]
-**Status:** [Phase III] [In Progress]
+**Status:** [Phase II] [In Progress]
  
 ---
  
